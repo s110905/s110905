@@ -36,8 +36,8 @@
 
 ## 🏆 精選 MarTech 成功案例 (Featured Case Studies)
 
-### 🎪 [2026 夏令營自動化報名系統](https://github.com/s110905/jojozoo-portfolio/tree/master/01-summer-camp) (🌐 [Live Demo](https://www.jojozoopark.com/camp/))
-*建立「自動化營收引擎」，解決熱門梯次超賣痛點並節省 **100+ 小時** 的行政對帳成本。*
+### 🎪 [2026 夏令營一站式自動化報名系統](https://github.com/s110905/jojozoo-portfolio/tree/master/01-summer-camp) (🌐 [Live Demo](https://www.jojozoopark.com/camp/))
+*實現「報名到對帳全流程同頁完成」的極簡體驗，有效提升轉換率並節省 **100+ 小時** 行政成本。*
 
 ### 💳 [飯店合作夥伴：數位核銷與 B2B 對帳系統](https://github.com/s110905/jojozoo-portfolio/tree/master/03-hotel-partner-system) (🌐 [Live Demo](https://www.jojozoopark.com/hpes/))
 > 🔑 **測試帳號**：`demo` | **測試密碼**：`demo`

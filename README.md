@@ -10,6 +10,10 @@
 *   🚀 核心實力：**精準需求分析**、**AI 提示工程 (Prompt Engineering)**、**跨技術棧整合**。
 *   🎯 目標：透過技術為企業節省人力成本，創造可量化的數據價值。
 
+### 🧰 我的 AI 開發工具箱 (My AI Toolkit)
+熟練運用多款專業級 AI 開發工具以優化工作流程：
+*   **Claude Code (CLI) Pro** | **GPT Codex (IDE) Plus** | **Google Antigravity (IDE) Pro**
+
 ---
 
 ## 🌟 專業作品集總覽 (Full Portfolio)

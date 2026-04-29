@@ -11,6 +11,12 @@
 
 ---
 
+## 🌟 專業作品集總覽 (Full Portfolio)
+強烈建議您前往查看我精心整理的完整專案作品集，內含詳細的 **商業痛點分析**、**系統架構圖** 與 **AI 協作實錄**：
+
+👉 **[點此進入我的專案作品集 (jojozoo-portfolio)](https://github.com/s110905/jojozoo-portfolio)**
+
+---
 ## 🛠️ 技術棧 (Tech Stack)
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />

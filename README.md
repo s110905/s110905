@@ -1,14 +1,14 @@
 ![Hero Banner](https://raw.githubusercontent.com/s110905/jojozoo-portfolio/master/images/hero_banner.png?v=3)
 
-# 👋 Hi, I'm Toyo Chang | AI-Powered Solution Architect & Developer
-> **📍 Based in Taiwan** | **🚀 Focusing on AI-Augmented Development & Digital Transformation**
+# 👋 Hi, I'm Toyo Chang | MarTech Specialist & Digital Transformation Strategist
+> **🚀 致力於透過 AI 技術實現「行銷自動化」與「數位轉型」的實踐者**
 
-## 🤖 關於我 (About Me)
-我是一位致力於透過 **AI 協作開發** 來實現企業數位轉型的開發者。我擅長利用 AI 工具進行高效的架構設計、Bug 修復與流程自動化，將傳統業務轉化為數位產值。
+## 🎯 我的定位 (My Value Proposition)
+我不是純粹的軟體工程師，而是一位**「懂技術的行銷策略家」**。我專注於如何利用 AI 與數位工具，將繁瑣的營運流程自動化，並透過數據洞察為企業創造實質的行銷轉換與商業產值。
 
-*   🔭 目前專注於：**AI 輔助的全端系統開發與自動化流程優化**。
-*   🚀 核心實力：**精準需求分析**、**AI 提示工程 (Prompt Engineering)**、**跨技術棧整合**。
-*   🎯 目標：透過技術為企業節省人力成本，創造可量化的數據價值。
+*   🔭 **核心使命**：縮短「行銷創意」與「技術實現」之間的距離。
+*   🚀 **核心實力**：MarTech 系統建置、AI 協作開發、O2O 導流策略、營運自動化。
+*   🎯 **目標**：用技術賦能行銷，將數位工具轉化為企業的營收成長引擎。
 
 ### 🧰 我的 AI 開發工具箱 (My AI Toolkit)
 熟練運用多款專業級 AI 開發工具以優化工作流程：

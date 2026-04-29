@@ -22,33 +22,32 @@
 👉 **[點此進入我的專案作品集 (jojozoo-portfolio)](https://github.com/s110905/jojozoo-portfolio)**
 
 ---
-## 🛠️ 技術棧 (Tech Stack)
+## 🛠️ 核心工具與技術 (Core Toolkits & Skills)
 <p align="left">
+  <img src="https://img.shields.io/badge/AI%20Prompts-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/MarTech%20Strategy-4BC0C0?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-FF9F43?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 </p>
 
 ---
 
-## 🏆 精選作品 (Featured Projects)
+## 🏆 精選 MarTech 成功案例 (Featured Case Studies)
 
-### 🎪 [2026 夏令營線上報名系統](https://github.com/s110905/jojozoo-portfolio/tree/master/01-summer-camp) (🌐 [Live Demo](https://www.jojozoopark.com/camp/))
-*將繁瑣的人工報名數位化，成功節省 **100+ 小時** 的行政成本。*
+### 🎪 [2026 夏令營自動化報名系統](https://github.com/s110905/jojozoo-portfolio/tree/master/01-summer-camp) (🌐 [Live Demo](https://www.jojozoopark.com/camp/))
+*建立「自動化營收引擎」，解決熱門梯次超賣痛點並節省 **100+ 小時** 的行政對帳成本。*
 
-### 💳 [飯店合作夥伴 QR 核銷系統](https://github.com/s110905/jojozoo-portfolio/tree/master/03-hotel-partner-system) (🌐 [Live Demo](https://www.jojozoopark.com/hpes/))
+### 💳 [飯店合作夥伴：數位核銷與 B2B 對帳系統](https://github.com/s110905/jojozoo-portfolio/tree/master/03-hotel-partner-system) (🌐 [Live Demo](https://www.jojozoopark.com/hpes/))
 > 🔑 **測試帳號**：`demo` | **測試密碼**：`demo`
-*解決 B2B 合作痛點，支援「單張 QR 多人/分次核銷」邏輯。*
+*透過數位 QR 碼與即時餘額管理，解決 B2B 合作間的對帳爭議並提升導客體驗。*
 
-### 🎟️ [廣三 SOGO X 九九峰：領券系統](https://github.com/s110905/jojozoo-portfolio/tree/master/07-kuangsan-collaboration) (🌐 [Live Demo](https://www.jojozoopark.com/kuangsan-ticket/))
-*異業結盟行銷專案，實現高併發、低成本的領券解決解決方案。*
+### 🎟️ [廣三 SOGO X 九九峰：O2O 跨界領券系統](https://github.com/s110905/jojozoo-portfolio/tree/master/07-kuangsan-collaboration) (🌐 [Live Demo](https://www.jojozoopark.com/kuangsan-ticket/))
+*異業結盟實踐，透過數位化領券流程精確追蹤百貨客群到樂園的「轉換率」。*
 
-### 🕷️ [ERP Spider: 營收自動化整合](https://github.com/s110905/jojozoo-portfolio/tree/master/06-erp-automation-spider)
-*Python 自動化爬蟲，實現第三方平台數據與內部 ERP 的零時差同步。*
+### 🕷️ [ERP Spider: 企業營收數據自動整合](https://github.com/s110905/jojozoo-portfolio/tree/master/06-erp-automation-spider)
+*數位轉型基石，將跨平台的「數據孤島」自動整合為即時決策報表，年度節省 **200+ 小時** 人力。*
 
 ---
 **歡迎與我聯絡：**

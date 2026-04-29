@@ -1,6 +1,6 @@
 # 👋 Hi, I'm s110905 | AI-Augmented Full-Stack Developer
 
-![Header](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=s110905%20Portfolio&fontSize=70)
+# 🚀 s110905 | AI-Augmented Full-Stack Developer
 
 ## 🤖 關於我 (About Me)
 我是一位致力於透過 **AI 協作開發** 來實現企業數位轉型的開發者。我擅長利用 AI 工具進行高效的架構設計、Bug 修復與流程自動化，將傳統業務轉化為數位產值。

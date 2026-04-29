@@ -49,17 +49,6 @@ graph LR
 
 ---
 
-## 🛠️ 核心工具與技術
-<p align="left">
-  <img src="https://img.shields.io/badge/AI%20Prompts-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/行銷策略-4BC0C0?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/自動化流程-FF9F43?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
----
 
 ## 🏆 精選 行銷科技成功案例
 

@@ -17,6 +17,10 @@
 
 而 AI 的出現，讓這場遊戲的難度曲線瞬間翻轉：它是我最強大的「輔助器」，讓我能跳過繁瑣、專注在真正有趣的事——**設計邏輯、解決問題、建造系統**。
 
+### 🧰 我的 AI 開發工具箱
+熟練運用多款專業級 AI 開發工具以優化工作流程：
+*   **Claude Code (CLI) Pro** | **GPT Codex (IDE) Plus** | **Google Antigravity (IDE) Pro**
+
 ---
 
 ## 🧠 我的策略思維流程
@@ -35,12 +39,6 @@ graph LR
 | :---: | :---: | :---: | :---: |
 | [**300%+**](https://github.com/s110905/jojozoo-portfolio/blob/master/PROMPTS.md#量化效能提升) | [**400+ 小時**](https://github.com/s110905/jojozoo-portfolio) | [**降低 40%**](https://github.com/s110905/jojozoo-portfolio/tree/master/01-summer-camp) | [**7+ 專案**](#🏆-精選-行銷科技成功案例) |
 > *數據基於 Git Velocity 實測與營運效率評估，證明 AI 協作開發的實質產值。*
-
----
-
-### 🧰 我的 AI 開發工具箱
-熟練運用多款專業級 AI 開發工具以優化工作流程：
-*   **Claude Code (CLI) Pro** | **GPT Codex (IDE) Plus** | **Google Antigravity (IDE) Pro**
 
 ---
 

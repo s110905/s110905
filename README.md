@@ -23,7 +23,7 @@ graph LR
 > **「在 AI 時代，技術不再是門檻，而是讓創意得以極致展現的最強大引擎。」**
 
 ## 📊 數位轉型戰績看板 (Quantified Impact Dashboard)
-| [🚀 開發加速](https://github.com/s110905/jojozoo-portfolio/blob/master/PROMPTS.md#📊-量化效能提升-quantitative-impact) | [⏱️ 年度省時](https://github.com/s110905/jojozoo-portfolio) | [📉 營運摩擦](https://github.com/s110905/jojozoo-portfolio/tree/master/01-summer-camp) | [🎪 成功案例](#🏆-精選-martech-成功案例-featured-case-studies) |
+| 🚀 開發加速 | ⏱️ 年度省時 | 📉 營運摩擦 | 🎪 成功案例 |
 | :---: | :---: | :---: | :---: |
 | [**300%+**](https://github.com/s110905/jojozoo-portfolio/blob/master/PROMPTS.md#📊-量化效能提升-quantitative-impact) | [**400+ 小時**](https://github.com/s110905/jojozoo-portfolio) | [**降低 40%**](https://github.com/s110905/jojozoo-portfolio/tree/master/01-summer-camp) | [**7+ 專案**](#🏆-精選-martech-成功案例-featured-case-studies) |
 > *數據基於 Git Velocity 實測與營運效率評估，證明 AI 協作開發的實質產值。*

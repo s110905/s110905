@@ -32,11 +32,14 @@
 
 ## 🏆 精選作品 (Featured Projects)
 
-### 🎪 [2026 夏令營線上報名系統](https://github.com/s110905/jojozoo-portfolio/tree/master/01-summer-camp)
+### 🎪 [2026 夏令營線上報名系統](https://github.com/s110905/jojozoo-portfolio/tree/master/01-summer-camp) (🌐 [Live Demo](https://www.jojozoopark.com/camp/))
 *將繁瑣的人工報名數位化，成功節省 **100+ 小時** 的行政成本。*
 
-### 💳 [企業內部款項審核系統](https://github.com/s110905/jojozoo-portfolio/tree/master/02-payment-system)
-*基於 Next.js/NestJS 的 Monorepo 架構，實作嚴謹的 RBAC 權限與審核工作流。*
+### 💳 [飯店合作夥伴 QR 核銷系統](https://github.com/s110905/jojozoo-portfolio/tree/master/03-hotel-partner-system) (🌐 [Live Demo](https://www.jojozoopark.com/hpes/))
+*解決 B2B 合作痛點，支援「單張 QR 多人/分次核銷」邏輯。*
+
+### 🎟️ [廣三 SOGO X 九九峰：領券系統](https://github.com/s110905/jojozoo-portfolio/tree/master/07-kuangsan-collaboration) (🌐 [Live Demo](https://www.jojozoopark.com/kuangsan-ticket/))
+*異業結盟行銷專案，實現高併發、低成本的領券解決解決方案。*
 
 ### 🕷️ [ERP Spider: 營收自動化整合](https://github.com/s110905/jojozoo-portfolio/tree/master/06-erp-automation-spider)
 *Python 自動化爬蟲，實現第三方平台數據與內部 ERP 的零時差同步。*

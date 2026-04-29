@@ -51,5 +51,4 @@
 
 ---
 **歡迎與我聯絡：**
-*   LinkedIn: [您的 LinkedIn 連結]
-*   Email: [您的 Email]
+*   Email: [s110905toyo@gmail.com](mailto:s110905toyo@gmail.com)

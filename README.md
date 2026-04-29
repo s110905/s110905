@@ -1,17 +1,17 @@
 ![Hero Banner](https://raw.githubusercontent.com/s110905/jojozoo-portfolio/master/images/hero_banner.png?v=3)
 
-# 👋 Hi, I'm Toyo Chang | MarTech Specialist & Digital Transformation Strategist
+# 👋 哈囉，我是 Toyo Chang | 行銷科技與數位轉型策略師
 > **🚀 致力於透過 AI 技術實現「行銷自動化」與「數位轉型」的實踐者**
 
-## 🎯 我的定位 (My Value Proposition)
+## 🎯 我的定位
 我不是純粹的軟體工程師，而是一位**「懂技術的行銷策略家」**。我專注於如何利用 AI 與數位工具，將繁瑣的營運流程自動化，並透過數據洞察為企業創造實質的行銷轉換與商業產值。
 
 *   🔭 **核心使命**：縮短「行銷創意」與「技術實現」之間的距離。
 *   🤝 **跨部門翻譯官**：擅長擔任「行銷思維」與「工程語言」間的橋樑，確保技術開發精準對齊商業目標。
-*   🚀 **核心實力**：MarTech 系統建置、AI 協作開發、O2O 導流策略、營運自動化。
+*   🚀 **核心實力**：行銷科技系統建置、AI 協作開發、跨界導流策略、營運自動化。
 *   🎯 **目標**：用技術賦能行銷，將數位工具轉化為企業的營收成長引擎。
 
-## 🧠 我的策略思維流程 (My Strategic Workflow)
+## 🧠 我的策略思維流程
 ```mermaid
 graph LR
     A["🚩 發現行銷/營運痛點"] --> B["🧠 策略思考與流程拆解"]
@@ -22,31 +22,32 @@ graph LR
 
 > **「在 AI 時代，技術不再是門檻，而是讓創意得以極致展現的最強大引擎。」**
 
-## 📊 數位轉型戰績看板 (Quantified Impact Dashboard)
+## 📊 數位轉型戰績看板
 | 🚀 開發加速 | ⏱️ 年度省時 | 📉 營運摩擦 | 🎪 成功案例 |
 | :---: | :---: | :---: | :---: |
-| [**300%+**](https://github.com/s110905/jojozoo-portfolio/blob/master/PROMPTS.md#📊-量化效能提升-quantitative-impact) | [**400+ 小時**](https://github.com/s110905/jojozoo-portfolio) | [**降低 40%**](https://github.com/s110905/jojozoo-portfolio/tree/master/01-summer-camp) | [**7+ 專案**](#🏆-精選-martech-成功案例-featured-case-studies) |
+| [**300%+**](https://github.com/s110905/jojozoo-portfolio/blob/master/PROMPTS.md#量化效能提升) | [**400+ 小時**](https://github.com/s110905/jojozoo-portfolio) | [**降低 40%**](https://github.com/s110905/jojozoo-portfolio/tree/master/01-summer-camp) | [**7+ 專案**](#🏆-精選-行銷科技成功案例) |
 > *數據基於 Git Velocity 實測與營運效率評估，證明 AI 協作開發的實質產值。*
 
 ---
 
-### 🧰 我的 AI 開發工具箱 (My AI Toolkit)
+### 🧰 我的 AI 開發工具箱
 熟練運用多款專業級 AI 開發工具以優化工作流程：
 *   **Claude Code (CLI) Pro** | **GPT Codex (IDE) Plus** | **Google Antigravity (IDE) Pro**
 
 ---
 
-## 🌟 專業作品集總覽 (Full Portfolio)
+## 🌟 專業作品集總覽
 強烈建議您前往查看我精心整理的完整專案作品集，內含詳細的 **商業痛點分析**、**系統架構圖** 與 **AI 協作實錄**：
 
 👉 **[點此進入我的專案作品集 (jojozoo-portfolio)](https://github.com/s110905/jojozoo-portfolio)**
 
 ---
-## 🛠️ 核心工具與技術 (Core Toolkits & Skills)
+
+## 🛠️ 核心工具與技術
 <p align="left">
   <img src="https://img.shields.io/badge/AI%20Prompts-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/MarTech%20Strategy-4BC0C0?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-FF9F43?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/行銷策略-4BC0C0?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/自動化流程-FF9F43?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
@@ -54,19 +55,19 @@ graph LR
 
 ---
 
-## 🏆 精選 MarTech 成功案例 (Featured Case Studies)
+## 🏆 精選 行銷科技成功案例
 
 ### 🎪 2026 夏令營一站式自動化報名系統
-👉 **[查看專案詳情與案例分析](https://github.com/s110905/jojozoo-portfolio/tree/master/01-summer-camp)** | 🌐 **[Live Demo](https://www.jojozoopark.com/camp/)**
+👉 **[查看專案詳情與案例分析](https://github.com/s110905/jojozoo-portfolio/tree/master/01-summer-camp)** | 🌐 **[線上展示 (Live Demo)](https://www.jojozoopark.com/camp/)**
 *實現「報名到對帳全流程同頁完成」的極簡體驗，有效提升轉換率並節省 **100+ 小時** 行政成本。*
 
 ### 💳 飯店合作夥伴：數位核銷與 B2B 對帳系統
-👉 **[查看專案詳情與案例分析](https://github.com/s110905/jojozoo-portfolio/tree/master/03-hotel-partner-system)** | 🌐 **[Live Demo](https://www.jojozoopark.com/hpes/)**
+👉 **[查看專案詳情與案例分析](https://github.com/s110905/jojozoo-portfolio/tree/master/03-hotel-partner-system)** | 🌐 **[線上展示](https://www.jojozoopark.com/hpes/)**
 > 🔑 **測試帳號**：`demo` | **測試密碼**：`demo`
 *透過數位 QR 碼與即時餘額管理，解決 B2B 合作間的對帳爭議並提升導客體驗。*
 
 ### 🎟️ 廣三 SOGO X 九九峰：O2O 跨界領券系統
-👉 **[查看專案詳情與案例分析](https://github.com/s110905/jojozoo-portfolio/tree/master/07-kuangsan-collaboration)** | 🌐 **[Live Demo](https://www.jojozoopark.com/kuangsan-ticket/)**
+👉 **[查看專案詳情與案例分析](https://github.com/s110905/jojozoo-portfolio/tree/master/07-kuangsan-collaboration)** | 🌐 **[線上展示](https://www.jojozoopark.com/kuangsan-ticket/)**
 *異業結盟實踐，透過數位化領券流程精確追蹤百貨客群到樂園的「轉換率」。*
 
 ### 🕷️ ERP Spider: 企業營收數據自動整合

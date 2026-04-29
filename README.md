@@ -10,6 +10,10 @@
 *   🚀 **核心實力**：MarTech 系統建置、AI 協作開發、O2O 導流策略、營運自動化。
 *   🎯 **目標**：用技術賦能行銷，將數位工具轉化為企業的營收成長引擎。
 
+> **「在 AI 時代，技術不再是門檻，而是讓創意得以極致展現的最強大引擎。」**
+
+---
+
 ### 🧰 我的 AI 開發工具箱 (My AI Toolkit)
 熟練運用多款專業級 AI 開發工具以優化工作流程：
 *   **Claude Code (CLI) Pro** | **GPT Codex (IDE) Plus** | **Google Antigravity (IDE) Pro**

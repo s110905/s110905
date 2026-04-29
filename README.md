@@ -1,4 +1,4 @@
-![Hero Banner](https://raw.githubusercontent.com/s110905/jojozoo-portfolio/master/images/hero_banner.png)
+![Hero Banner](https://raw.githubusercontent.com/s110905/jojozoo-portfolio/master/images/hero_banner.png?v=2)
 
 # 👋 Hi, I'm s110905 | AI-Augmented Full-Stack Developer
 

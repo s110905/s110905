@@ -36,6 +36,7 @@
 *將繁瑣的人工報名數位化，成功節省 **100+ 小時** 的行政成本。*
 
 ### 💳 [飯店合作夥伴 QR 核銷系統](https://github.com/s110905/jojozoo-portfolio/tree/master/03-hotel-partner-system) (🌐 [Live Demo](https://www.jojozoopark.com/hpes/))
+> 🔑 **測試帳號**：`demo` | **測試密碼**：`demo`
 *解決 B2B 合作痛點，支援「單張 QR 多人/分次核銷」邏輯。*
 
 ### 🎟️ [廣三 SOGO X 九九峰：領券系統](https://github.com/s110905/jojozoo-portfolio/tree/master/07-kuangsan-collaboration) (🌐 [Live Demo](https://www.jojozoopark.com/kuangsan-ticket/))

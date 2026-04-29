@@ -1,6 +1,7 @@
 ![Hero Banner](https://raw.githubusercontent.com/s110905/jojozoo-portfolio/master/images/hero_banner.png?v=3)
 
-# 👋 Hi, I'm toyo chang | AI-Augmented Full-Stack Developer
+# 👋 Hi, I'm Toyo Chang | AI-Powered Solution Architect & Developer
+> **📍 Based in Taiwan** | **🚀 Focusing on AI-Augmented Development & Digital Transformation**
 
 ## 🤖 關於我 (About Me)
 我是一位致力於透過 **AI 協作開發** 來實現企業數位轉型的開發者。我擅長利用 AI 工具進行高效的架構設計、Bug 修復與流程自動化，將傳統業務轉化為數位產值。

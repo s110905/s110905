@@ -56,17 +56,21 @@ graph LR
 
 ## 🏆 精選 MarTech 成功案例 (Featured Case Studies)
 
-### 🎪 [2026 夏令營一站式自動化報名系統](https://github.com/s110905/jojozoo-portfolio/tree/master/01-summer-camp) (🌐 [Live Demo](https://www.jojozoopark.com/camp/))
+### 🎪 2026 夏令營一站式自動化報名系統
+👉 **[查看專案詳情與案例分析](https://github.com/s110905/jojozoo-portfolio/tree/master/01-summer-camp)** | 🌐 **[Live Demo](https://www.jojozoopark.com/camp/)**
 *實現「報名到對帳全流程同頁完成」的極簡體驗，有效提升轉換率並節省 **100+ 小時** 行政成本。*
 
-### 💳 [飯店合作夥伴：數位核銷與 B2B 對帳系統](https://github.com/s110905/jojozoo-portfolio/tree/master/03-hotel-partner-system) (🌐 [Live Demo](https://www.jojozoopark.com/hpes/))
+### 💳 飯店合作夥伴：數位核銷與 B2B 對帳系統
+👉 **[查看專案詳情與案例分析](https://github.com/s110905/jojozoo-portfolio/tree/master/03-hotel-partner-system)** | 🌐 **[Live Demo](https://www.jojozoopark.com/hpes/)**
 > 🔑 **測試帳號**：`demo` | **測試密碼**：`demo`
 *透過數位 QR 碼與即時餘額管理，解決 B2B 合作間的對帳爭議並提升導客體驗。*
 
-### 🎟️ [廣三 SOGO X 九九峰：O2O 跨界領券系統](https://github.com/s110905/jojozoo-portfolio/tree/master/07-kuangsan-collaboration) (🌐 [Live Demo](https://www.jojozoopark.com/kuangsan-ticket/))
+### 🎟️ 廣三 SOGO X 九九峰：O2O 跨界領券系統
+👉 **[查看專案詳情與案例分析](https://github.com/s110905/jojozoo-portfolio/tree/master/07-kuangsan-collaboration)** | 🌐 **[Live Demo](https://www.jojozoopark.com/kuangsan-ticket/)**
 *異業結盟實踐，透過數位化領券流程精確追蹤百貨客群到樂園的「轉換率」。*
 
-### 🕷️ [ERP Spider: 企業營收數據自動整合](https://github.com/s110905/jojozoo-portfolio/tree/master/06-erp-automation-spider)
+### 🕷️ ERP Spider: 企業營收數據自動整合
+👉 **[查看專案詳情與案例分析](https://github.com/s110905/jojozoo-portfolio/tree/master/06-erp-automation-spider)**
 *數位轉型基石，將跨平台的「數據孤島」自動整合為即時決策報表，年度節省 **200+ 小時** 人力。*
 
 ---

@@ -46,13 +46,5 @@
 *Python 自動化爬蟲，實現第三方平台數據與內部 ERP 的零時差同步。*
 
 ---
-
-## 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=s110905&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s110905&layout=compact&theme=radical" height="150" />
-</p>
-
----
 **歡迎與我聯絡：**
 *   Email: [s110905toyo@gmail.com](mailto:s110905toyo@gmail.com)

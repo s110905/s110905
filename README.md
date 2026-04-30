@@ -1,4 +1,7 @@
-![Hero Banner](https://raw.githubusercontent.com/s110905/jojozoo-portfolio/master/images/hero_banner.png?v=3)
+<picture>
+  <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/s110905/jojozoo-portfolio/master/images/hero_banner_mb.png">
+  <img src="https://raw.githubusercontent.com/s110905/jojozoo-portfolio/master/images/hero_banner.png" width="100%">
+</picture>
 
 # 👋 哈囉，我是 Toyo Chang | 行銷科技與數位轉型策略師
 > **🚀 致力於透過 AI 技術實現「行銷自動化」與「數位轉型」的實踐者**

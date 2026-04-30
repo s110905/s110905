@@ -59,7 +59,6 @@ graph LR
 
 ### 💳 飯店合作夥伴：數位核銷與 B2B 對帳系統
 👉 **[查看專案詳情與案例分析](https://github.com/s110905/jojozoo-portfolio/tree/master/03-hotel-partner-system)** | 🌐 **[線上展示](https://www.jojozoopark.com/hpes/)**
-> 🔑 **測試帳號**：`demo` | **測試密碼**：`demo`
 *透過數位 QR 碼與即時餘額管理，解決 B2B 合作間的對帳爭議並提升導客體驗。*
 
 ### 🎟️ 廣三 SOGO X 九九峰：O2O 跨界領券系統

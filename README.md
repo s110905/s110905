@@ -23,13 +23,15 @@
 ## 🧰 我的 AI 開發工具箱
 
 熟練運用多款專業級 AI 開發工具以優化工作流程：
-*   **Claude Code (CLI) Pro** | **GPT Codex (IDE) Plus** | **Google Antigravity (IDE) Pro**
+*   **Claude Code (CLI) Pro**
+*   **GPT Codex (IDE) Plus**
+*   **Google Antigravity (IDE) Pro**
 
 ---
 
 ## 🧠 我的策略思維流程
 ```mermaid
-graph LR
+graph TD
     A["🚩 發現行銷/營運痛點"] --> B["🧠 策略思考與流程拆解"]
     B --> C["🤖 AI 快速原型開發"]
     C --> D["🛠️ 實戰部署與優化"]
@@ -39,9 +41,11 @@ graph LR
 > **「在 AI 時代，技術不再是門檻，而是讓創意得以極致展現的最強大引擎。」**
 
 ## 📊 數位轉型戰績看板
-| 🚀 開發加速 | ⏱️ 年度省時 | 📉 營運摩擦 | 🎪 成功案例 |
-| :---: | :---: | :---: | :---: |
-| [**300%+**](https://github.com/s110905/jojozoo-portfolio/blob/master/PROMPTS.md#量化效能提升) | [**400+ 小時**](https://github.com/s110905/jojozoo-portfolio) | [**降低 40%**](https://github.com/s110905/jojozoo-portfolio/tree/master/01-summer-camp) | [**7+ 專案**](#🏆-精選-行銷科技成功案例) |
+- 🚀 開發加速 [**300%+**](https://github.com/s110905/jojozoo-portfolio/blob/master/PROMPTS.md#量化效能提升)
+- ⏱️ 年度省時 [**400+ 小時**](https://github.com/s110905/jojozoo-portfolio)
+- 📉 營運摩擦 [**降低 40%**](https://github.com/s110905/jojozoo-portfolio/tree/master/01-summer-camp)
+- 🎪 成功案例 [**7+ 專案**](#-精選-行銷科技成功案例)
+
 > *數據基於 Git Velocity 實測與營運效率評估，證明 AI 協作開發的實質產值。*
 
 ---
@@ -57,15 +61,18 @@ graph LR
 ## 🏆 精選 行銷科技成功案例
 
 ### 🎪 2026 夏令營一站式自動化報名系統
-👉 **[查看專案詳情與案例分析](https://github.com/s110905/jojozoo-portfolio/tree/master/01-summer-camp)** | 🌐 **[線上展示 (Live Demo)](https://www.jojozoopark.com/camp/)**
+👉 **[查看專案詳情與案例分析](https://github.com/s110905/jojozoo-portfolio/tree/master/01-summer-camp)**
+🌐 **[線上展示 (Live Demo)](https://www.jojozoopark.com/camp/)**
 *實現「報名到對帳全流程同頁完成」的極簡體驗，有效提升轉換率並節省 **100+ 小時** 行政成本。*
 
 ### 💳 飯店合作夥伴：數位核銷與 B2B 對帳系統
-👉 **[查看專案詳情與案例分析](https://github.com/s110905/jojozoo-portfolio/tree/master/03-hotel-partner-system)** | 🌐 **[線上展示](https://www.jojozoopark.com/hpes/)**
+👉 **[查看專案詳情與案例分析](https://github.com/s110905/jojozoo-portfolio/tree/master/03-hotel-partner-system)**
+🌐 **[線上展示](https://www.jojozoopark.com/hpes/)**
 *透過數位 QR 碼與即時餘額管理，解決 B2B 合作間的對帳爭議並提升導客體驗。*
 
 ### 🎟️ 廣三 SOGO X 九九峰：O2O 跨界領券系統
-👉 **[查看專案詳情與案例分析](https://github.com/s110905/jojozoo-portfolio/tree/master/07-kuangsan-collaboration)** | 🌐 **[線上展示](https://www.jojozoopark.com/kuangsan-ticket/)**
+👉 **[查看專案詳情與案例分析](https://github.com/s110905/jojozoo-portfolio/tree/master/07-kuangsan-collaboration)**
+🌐 **[線上展示](https://www.jojozoopark.com/kuangsan-ticket/)**
 *異業結盟實踐，透過數位化領券流程精確追蹤百貨客群到樂園的「轉換率」。*
 
 ### 🕷️ ERP Spider: 企業營收數據自動整合

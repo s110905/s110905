@@ -42,7 +42,7 @@ graph TD
 - 🚀 開發加速 [**300%+**](https://github.com/s110905/jojozoo-portfolio/blob/master/PROMPTS.md#量化效能提升)
 - ⏱️ 年度省時 [**400+ 小時**](https://github.com/s110905/jojozoo-portfolio)
 - 📉 營運摩擦 [**降低 40%**](https://github.com/s110905/jojozoo-portfolio/tree/master/01-summer-camp)
-- 🎪 成功案例 [**7+ 專案**](#-精選-行銷科技成功案例)
+- 🎪 成功案例 [**12+ 專案**](#-精選-行銷科技成功案例)
 
 > *數據基於 Git Velocity 實測與營運效率評估，證明 AI 協作開發的實質產值。*
 
@@ -72,6 +72,11 @@ graph TD
 👉 **[查看專案詳情與案例分析](https://github.com/s110905/jojozoo-portfolio/tree/master/07-kuangsan-collaboration)**
 🌐 **[線上展示](https://www.jojozoopark.com/kuangsan-ticket/)**
 *異業結盟實踐，透過數位化領券流程精確追蹤百貨客群到樂園的「轉換率」。*
+
+### 🎁 加入 LINE 參加抽抽樂：好友裂變導客系統
+👉 **[查看專案詳情與案例分析](https://github.com/s110905/jojozoo-portfolio/tree/master/10-line-lucky-draw)**
+🌐 **[線上展示](https://lineluckydraw-99cutezoo.web.app)**
+*以「加入官方帳號好友」為抽獎門檻，把一次性活動流量沉澱為可再行銷的私域名單，並將 15 項獎品綁定園區櫃位精準導客。*
 
 ### 🕷️ ERP Spider: 企業營收數據自動整合
 👉 **[查看專案詳情與案例分析](https://github.com/s110905/jojozoo-portfolio/tree/master/06-erp-automation-spider)**
